@@ -1,6 +1,6 @@
 {
   "name": "to-percent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a decimal value to percent",
   "license": "MIT",
   "repository": "kevva/to-percent",
