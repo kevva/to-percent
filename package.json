@@ -1,0 +1,30 @@
+{
+  "name": "to-percent",
+  "version": "1.0.0",
+  "description": "Convert a decimal value to percent",
+  "license": "MIT",
+  "repository": "kevva/to-percent",
+  "author": {
+    "name": "Kevin Martensson",
+    "email": "kevinmartensson@gmail.com",
+    "url": "github.com/kevva"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "convert",
+    "math",
+    "number",
+    "percent"
+  ],
+  "devDependencies": {
+    "ava": "^0.0.4"
+  }
+}
