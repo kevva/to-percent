@@ -13,7 +13,7 @@ $ npm install --save to-percent
 ## Usage
 
 ```js
-var toPercent = require('to-percent');
+const toPercent = require('to-percent');
 
 toPercent(0.75);
 //=> 75
